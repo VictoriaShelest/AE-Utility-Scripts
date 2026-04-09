@@ -1,7 +1,6 @@
 // Add Parent Controller to Each Selected Layer
 // Developed for Victoria Shelest
-// Version 1.2
-// 04.2026
+// Version 1.0
 
 function makeUniqueLayerName(comp, baseName) {
     var newName = baseName;
