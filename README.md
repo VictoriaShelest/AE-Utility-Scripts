@@ -52,4 +52,4 @@ Each script focuses on solving one simple, repeatable task: no UI panels, no ico
 
 ### [Add Parent Controller](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/AddParentController.jsx)
 
-Creates one controller null per selected layer and parents the layer to it.
+Creates one null controller per selected layer and parents the layer to it.
