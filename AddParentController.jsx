@@ -1,4 +1,5 @@
 // Add Parent Controller to Each Selected Layer
+// Creates one controller null per selected layer and parents the layer to it.
 // Developed for Victoria Shelest
 // Version 1.0
 
