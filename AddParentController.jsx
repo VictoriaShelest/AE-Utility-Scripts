@@ -1,7 +1,6 @@
-// Add Parent Controller to Each Selected Layer
+// Add Parent Controller to Each Selected Layer v1.0
 // Creates one controller null per selected layer and parents the layer to it.
 // Developed by Victoria Shelest
-// Version 1.0
 
 function makeUniqueLayerName(comp, baseName) {
     var newName = baseName;
