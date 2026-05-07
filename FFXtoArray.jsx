@@ -2,7 +2,6 @@
 // FFX to Array v1.0
 // Converts an FFX file into a byte array for scripting
 // Developed by Victoria Shelest
-// 05.2026
 
 
 (function ffxToArray() {
