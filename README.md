@@ -57,4 +57,4 @@ Creates one null controller per selected layer and parents the layer to it.
 Sends selected compositions to Adobe Media Encoder.
 
 ### [FFX to Array](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/AddParentController.jsx)
-Converts an FFX file into a byte array for scripting. Run script -> choose .ffx file -> save an array to the same folder.
+Converts an FFX file into a byte array for scripting. Run script -> choose .ffx file -> save a .txt file with the array to the same folder.
