@@ -57,7 +57,9 @@ Creates one null controller per selected layer and parents the layer to it.
 Sends selected compositions to Adobe Media Encoder.
 
 ### [FFX to Array](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/AddParentController.jsx)
-Converts an FFX file into a byte array for scripting. Run script -> Choose .ffx file -> AE saves a .txt file with the array to the same folder.
+Converts an FFX file into a byte array for scripting. 
+Run script → Choose .ffx file → AE saves a .txt file with the array to the same folder.
 
 ### [PNG to Embedded](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/PNGtoEmbedded.jsx)
-Converts a selected PNG into inline String.fromCharCode image data for embedding in ExtendScript tools. Run script -> Choose .png file -> AE saves a .txt file with the image data to the same folder.
+Converts a selected PNG into inline String.fromCharCode image data for embedding in ExtendScript tools. 
+Run script → Choose .png file → AE saves a .txt file with the image data to the same folder.
