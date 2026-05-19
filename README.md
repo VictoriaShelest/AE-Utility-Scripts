@@ -1,7 +1,14 @@
 # AE-Utility-Scripts
-A growing collection of single‑purpose After Effects scripts I created to speed up everyday work.
+A growing collection of single-purpose After Effects scripts for production work, export tasks, and script development.
 
 Each script focuses on solving one simple, repeatable task: no UI panels, no icons — just quick actions.
+
+### Script Categories
+**Workflow Utilities** — small tools for repetitive layer, parenting, and comp tasks inside After Effects.
+
+**Export & Conversion Tools** — utilities for sending comps out, converting assets, or preparing data for reuse.
+
+**Script Development Helpers** — tools for testing, debugging, embedding, and reusing resources while building AE scripts.
 
 
 ## Usage
