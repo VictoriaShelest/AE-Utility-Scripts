@@ -4,11 +4,9 @@ A growing collection of single-purpose After Effects scripts for production work
 Each script focuses on solving one simple, repeatable task: no UI panels, no icons — just quick actions.
 
 ### Script Categories
-**Workflow Utilities** — small tools for repetitive layer, parenting, and comp tasks inside After Effects.
+**Workflow Tools** — scripts for day-to-day work inside After Effects, including layer setup and export-related actions.
 
-**Export & Conversion Tools** — utilities for sending comps out, converting assets, or preparing data for reuse.
-
-**Script Development Helpers** — tools for testing, debugging, embedding, and reusing resources while building AE scripts.
+**Script Development Helpers** — utilities scripts for building, converting, testing, and resetting other After Effects scripts and assets.
 
 
 ## Usage
@@ -54,14 +52,24 @@ Each script focuses on solving one simple, repeatable task: no UI panels, no ico
 - There is no shared UI — just small utilities that are safe to drop into existing projects.
 - Scripts are independent: you can use only the ones that fit your process.
 
+<br>
 
-## Scripts
+# Scripts
+
+## 1. Workflow Tools
+Scripts for day-to-day work inside After Effects, including layer setup and export-related actions.
 
 ### [Add Parent Controller](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/AddParentController.jsx)
 Creates one null controller per selected layer and parents the layer to it.
 
 ### [Comps to AME](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/CompsToAME.jsx)
 Sends selected compositions to Adobe Media Encoder.
+
+## 2. Script Development Helpers
+Utilities scripts for building, converting, testing, and resetting other After Effects scripts and assets.
+
+### [Clean Layers](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/CleanLayers.jsx)
+Resets selected layers by removing all effects and expressions, making repeated script testing faster and cleaner.
 
 ### [FFX to Array](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/AddParentController.jsx)
 Converts an FFX file into a byte array for scripting. 
