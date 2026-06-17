@@ -62,9 +62,6 @@ Scripts for day-to-day work inside After Effects, including layer setup and expo
 ### [Add Parent Controller](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/AddParentController.jsx)
 Creates one null controller per selected layer and parents the layer to it.
 
-### [DeComp](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/DeComp.jsx)
-Decomposes a selected precomp into the current comp, adds a controller null for all copied layers that preserves layer order, parenting and transforms.
-
 ### [Comps to AME](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/CompsToAME.jsx)
 Sends selected compositions to Adobe Media Encoder.
 
@@ -81,3 +78,7 @@ Run script → Choose a .ffx file → AE saves a .txt file with the array to the
 ### [PNG to Embedded](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/PNGtoEmbedded.jsx)
 Converts a selected PNG into inline `String.fromCharCode` image data for embedding in ExtendScript tools. 
 Run script → Choose .png file → AE saves a .txt file with the image data to the same folder.
+
+## License
+
+MIT — see [LICENSE](LICENSE)
