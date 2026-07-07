@@ -62,6 +62,9 @@ Scripts for day-to-day work inside After Effects, including layer setup and expo
 ### [Add Parent Controller](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/AddParentController.jsx)
 Creates one null controller per selected layer and parents the layer to it.
 
+### [Extend Layers](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/ExtendLayers.jsx)
+Adds two seconds to the duration of selected layers and precomps.
+
 ### [Comps to AME](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/CompsToAME.jsx)
 Sends selected compositions to Adobe Media Encoder.
 
