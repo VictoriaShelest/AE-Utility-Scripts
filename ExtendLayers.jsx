@@ -1,5 +1,5 @@
 // Extend Layers
-// Extends the duration of selected layers and their precomps
+// Adds two seconds to the duration of selected layers and precomps
 // Developed by Victoria Shelest
 
 app.beginUndoGroup("Extend Selected Layers and Precomps");
