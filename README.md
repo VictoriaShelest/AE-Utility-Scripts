@@ -65,6 +65,9 @@ Creates one null controller per selected layer and parents the layer to it.
 ### [Extend Layers](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/ExtendLayers.jsx)
 Adds two seconds to the duration of selected layers and precomps.
 
+### [Find C4D Comps](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/FindC4DComps.jsx)
+Finds all compositions that use the Cinema 4D renderer, selects them in the Project panel and shows a renderer summary for the project.
+
 ### [Comps to AME](https://github.com/VictoriaShelest/AE-Utility-Scripts/blob/main/CompsToAME.jsx)
 Sends selected compositions to Adobe Media Encoder.
 
